@@ -17,7 +17,7 @@ jogador_da_vez = 0
 jogadas_feitas = []
 
 
-class Button():
+class Button:
 
     def __init__(self, image):
         self.pressed = False
